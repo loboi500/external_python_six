@@ -1,6 +1,3 @@
-include CHANGES
-include LICENSE
-include test_six.py
-
-recursive-include documentation *
-prune documentation/_build
+version https://git-lfs.github.com/spec/v1
+oid sha256:e18c7205486527268826a438e7efa721d330d77956f8bfff28b212ddafd7f3d9
+size 114
